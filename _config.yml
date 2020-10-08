@@ -96,7 +96,7 @@ author:
   name             : "J.Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Simple Pleasures"
-  location         : ""
+  #location         : "Somewhere"
   email            : 
   links:
     - label: "Email"
